@@ -1,2 +1,2 @@
-# study_springboot_admin
-repo for Spring Boot Admin study
+# study_springboot_bootadmin
+repo for Spring Boot Boot-Admin study
